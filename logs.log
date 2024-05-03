@@ -5300,3 +5300,19 @@
 2024-05-03 20:34:56,588:INFO:load_model(model_name=./models/morning_auto, platform=None, authentication=None, verbose=True)
 2024-05-03 20:34:56,616:INFO:Initializing load_model()
 2024-05-03 20:34:56,617:INFO:load_model(model_name=./models/tucson_auto, platform=None, authentication=None, verbose=True)
+2024-05-03 21:04:07,455:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 21:04:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 21:04:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 21:04:07,456:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-03 21:04:07,750:INFO:Initializing load_model()
+2024-05-03 21:04:07,750:INFO:load_model(model_name=./models/grandeur_auto, platform=None, authentication=None, verbose=True)
+2024-05-03 21:04:09,085:INFO:Initializing load_model()
+2024-05-03 21:04:09,085:INFO:load_model(model_name=./models/k5_auto, platform=None, authentication=None, verbose=True)
+2024-05-03 21:04:09,330:INFO:Initializing load_model()
+2024-05-03 21:04:09,330:INFO:load_model(model_name=./models/morning_auto, platform=None, authentication=None, verbose=True)
+2024-05-03 21:04:09,405:INFO:Initializing load_model()
+2024-05-03 21:04:09,405:INFO:load_model(model_name=./models/tucson_auto, platform=None, authentication=None, verbose=True)
