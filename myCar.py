@@ -402,7 +402,7 @@ with col5 :
             '---'
             ''
 
-            st.write('마진율')
+            st.write('업체 예상 마진율')
             st.error(margin)
 
             st.write('판매 예상 금액')
