@@ -169,10 +169,10 @@ with col2 :
         text-align : center;
         }
         </style>
-        """, unsafe_allow_html=True)
-    st.markdown('<p class="custom-font">내 차는 얼마정도 <br/>받을 수 있을까?</p>', unsafe_allow_html=True)
-
+        """, unsafe_allow_html=True)  
     
+    st.markdown('<p class="custom-font">🚘내 차는 얼마 정도 <br/>받을 수 있을까?</p>', unsafe_allow_html=True)
+
 
 with col3 :
     ''
