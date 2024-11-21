@@ -18,3 +18,4 @@ streamlit-option-menu==0.3.6
 xgboost==2.0.3
 lightgbm==4.3.0
 tqdm==4.66.1
+altair==4.2.2
